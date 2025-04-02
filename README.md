@@ -36,8 +36,8 @@ ollama pull mistral
 ### 3️⃣ Clone or Download HackerAI
 
 ```bash
-git clone https://github.com/yogsec/hackerai.git
-cd hackerai
+git clone https://github.com/yogsec/Hacker -AI.git
+cd Hacker-AI
 ```
 
 Or download `hackerai.py` manually if you want.
